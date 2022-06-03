@@ -15,7 +15,7 @@
 </head>
 <body style="background-color:rgb(40, 128, 140);">
 <center>
-<h1>Welcome to our final project </h1>
+<h1>Welcome to our final project :)</h1>
 </center>
   <p class="centerImage">
   <img src="https://i.imgflip.com/6gmosk.jpg" >
