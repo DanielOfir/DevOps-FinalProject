@@ -11,7 +11,7 @@
 <%@ page import="java.text.*,java.util.*" %>
 <html>
 <head>
-<title>DevOps Final Project!</title>
+<title>DevOps Final Project</title>
 </head>
 <body style="background-color:rgb(40, 128, 140);">
 <center>
